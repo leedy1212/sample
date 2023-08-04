@@ -1,0 +1,1 @@
+﻿select * from foo_bar2

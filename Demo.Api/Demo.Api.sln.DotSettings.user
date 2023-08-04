@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CProjects_005CDemo_002EApi_005CAssemblies_005COracle_002EManagedDataAccess_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CProjects_005CDemo_002EApi_005CAssemblies_005CSampleFx_002EData_002EPetaPoco_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CProjects_005CDemo_002EApi_005CAssemblies_005CSampleFx_002EData_002EPetaPoco_002EOracle_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CProjects_005CDemo_002EApi_005CAssemblies_005CSampleFx_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CProjects_005CDemo_002EApi_005CAssemblies_005CSampleRest_002EApi_002EClient_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CProjects_005CDemo_002EApi_005CAssemblies_005CSampleRest_002EApi_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CProjects_005CDemo_002EApi_005CAssemblies_005CSampleRest_002EApi_002EServer_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CProjects_005CDemo_002EApi_005CAssemblies_005CSampleRest_002EFramework_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CProjects_005CDemo_002EApi_005CAssemblies_005CSample_002EResources_002EResourceLoader_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CProjects_005CDemo_002EApi_005CAssemblies_005CSystem_002EWeb_002EHttp_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CProjects_005CDemo_002EApi_005CAssemblies_005CSystem_002EWeb_002EHttp_002EWebHost_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CProjects_005CDemo_002EApi_005Cpackages_005CMicrosoft_002EAspNet_002EWebApi_002ECore_002E5_002E2_002E3_005Clib_005Cnet45_005CSystem_002EWeb_002EHttp_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CProjects_005CDemo_002EApi_005Cpackages_005CMicrosoft_002EAspNet_002EWebApi_002EWebHost_002E5_002E2_002E3_005Clib_005Cnet45_005CSystem_002EWeb_002EHttp_002EWebHost_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Projects\Demo.Api\packages\Microsoft.AspNet.WebApi.Core.4.0.20710.0\lib\net40\System.Web.Http.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Projects\Demo.Api\packages\Microsoft.AspNet.WebApi.WebHost.4.0.20710.0\lib\net40\System.Web.Http.WebHost.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.Core.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Core.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.1\System.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>

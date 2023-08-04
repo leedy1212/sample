@@ -1,0 +1,16 @@
+C:\Projects\Demo.Api\Demo.Api.Common\bin\Debug\Demo.Api.Common.dll.config
+C:\Projects\Demo.Api\Demo.Api.Common\bin\Debug\Demo.Api.Common.dll
+C:\Projects\Demo.Api\Demo.Api.Common\bin\Debug\Demo.Api.Common.pdb
+C:\Projects\Demo.Api\Demo.Api.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Demo.Api\Demo.Api.Common\bin\Debug\SampleFx.Data.PetaPoco.dll
+C:\Projects\Demo.Api\Demo.Api.Common\bin\Debug\SampleFx.dll
+C:\Projects\Demo.Api\Demo.Api.Common\bin\Debug\SampleRest.Framework.dll
+C:\Projects\Demo.Api\Demo.Api.Common\bin\Debug\System.Web.Http.dll
+C:\Projects\Demo.Api\Demo.Api.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Demo.Api\Demo.Api.Common\bin\Debug\System.Web.Http.xml
+C:\Projects\Demo.Api\Demo.Api.Common\bin\Debug\ko\System.Web.Http.resources.dll
+C:\Projects\Demo.Api\Demo.Api.Common\obj\Debug\Demo.Api.Common.csproj.AssemblyReference.cache
+C:\Projects\Demo.Api\Demo.Api.Common\obj\Debug\Demo.Api.Common.csproj.CoreCompileInputs.cache
+C:\Projects\Demo.Api\Demo.Api.Common\obj\Debug\Demo.Api.Common.csproj.CopyComplete
+C:\Projects\Demo.Api\Demo.Api.Common\obj\Debug\Demo.Api.Common.dll
+C:\Projects\Demo.Api\Demo.Api.Common\obj\Debug\Demo.Api.Common.pdb

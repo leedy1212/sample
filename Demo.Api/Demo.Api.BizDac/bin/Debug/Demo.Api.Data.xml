@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Demo.Api.Data</name>
+    </assembly>
+    <members>
+        <member name="T:Demo.Api.Data.Common.Results.Models.ResponseBasicModel`1">
+            <summary>
+            일반 결과 반환 기본 모델  
+            </summary>
+        </member>
+        <member name="M:Demo.Api.Data.Common.Results.Models.ResponseBasicModel`1.#ctor(`0)">
+            <summary>
+            생성자
+            </summary>
+            <param name="returnValue"></param>
+        </member>
+        <member name="P:Demo.Api.Data.Common.Results.Models.ResponseBasicModel`1.ReturnValue">
+            <summary>
+            결과 데이터
+            </summary>
+        </member>
+        <member name="P:Demo.Api.Data.Common.Results.Models.ResponseBasicModel`1.Errors">
+            <summary>
+            오류결과
+            </summary>
+        </member>
+        <member name="M:Demo.Api.Data.Common.Results.Models.ResponseListBasicModel`1.#ctor(System.Collections.Generic.List{`0})">
+            <summary>
+            리스트 결과 반환 기본 모델  
+            </summary>
+            <param name="returnValue"></param>
+        </member>
+        <member name="M:Demo.Api.Data.Common.Results.Models.ResponseListBasicModel`1.#ctor(System.Collections.Generic.List{`0},System.Int32)">
+            <summary>
+            리스트 결과 반환 기본 모델
+            </summary>
+            <param name="returnValue"></param>
+        </member>
+        <member name="P:Demo.Api.Data.Common.Results.Models.ResponseListBasicModel`1.ReturnValue">
+            <summary>
+            리스트 결과
+            </summary>
+        </member>
+        <member name="P:Demo.Api.Data.Common.Results.Models.ResponseListBasicModel`1.Count">
+            <summary>
+            리스트 결과 갯수
+            </summary>
+        </member>
+        <member name="P:Demo.Api.Data.Common.Results.Models.ResponseListBasicModel`1.Errors">
+            <summary>
+            오류결과
+            </summary>
+        </member>
+        <member name="P:Demo.Api.Data.Common.Results.Models.ResponseSimpleModel.Errors">
+            <summary>
+            오류결과
+            </summary>
+        </member>
+        <member name="T:Demo.Api.Data.Common.Results.Models.SimpleResultT">
+            <summary>
+            Return 메시지
+            </summary>
+        </member>
+        <member name="P:Demo.Api.Data.Common.Results.Models.SimpleResultT.Code">
+            <summary>
+            공통메시지
+            </summary>
+        </member>
+        <member name="P:Demo.Api.Data.Common.Results.Models.SimpleResultT.Message">
+            <summary>
+            공통메시지
+            </summary>
+        </member>
+        <member name="P:Demo.Api.Data.Common.Results.Models.SimpleResultT.totalCount">
+            <summary>
+            건수
+            </summary>
+        </member>
+        <member name="P:Demo.Api.Data.Entities.CommonMessageT.Code">
+            <summary>
+            공통메시지
+            </summary>
+        </member>
+        <member name="P:Demo.Api.Data.Entities.CommonMessageT.Message">
+            <summary>
+            공통메시지
+            </summary>
+        </member>
+        <member name="T:Demo.Api.Data.Entities.Sample.SampleRequestI">
+            <summary>
+            샘플 조회 요청 인터페이스
+            </summary>
+        </member>
+        <member name="P:Demo.Api.Data.Entities.Sample.SampleRequestI.userId">
+            <summary>
+            사용자 ID
+            </summary>
+        </member>
+        <member name="P:Demo.Api.Data.Entities.Sample.SampleRequestI.startDate">
+            <summary>
+            시작일
+            </summary>        
+        </member>
+        <member name="P:Demo.Api.Data.Entities.Sample.SampleRequestI.endDate">
+            <summary>
+            종료일
+            </summary>
+        </member>
+        <member name="P:Demo.Api.Data.Entities.Sample.SampleRequestI.filter">
+            <summary>
+            필터
+            </summary>
+        </member>
+        <member name="T:Demo.Api.Data.Entities.Sample.SampleRequestM">
+            <summary>
+            샘플 조회 요청 인터페이스
+            </summary>
+        </member>
+        <member name="P:Demo.Api.Data.Entities.Sample.SampleRequestM.taskCode">
+            <summary>
+            사용자 ID
+            </summary>
+        </member>
+        <member name="P:Demo.Api.Data.Entities.Sample.SampleDataListT.CustNo">
+            <summary>
+            고객번호
+            </summary>
+        </member>
+        <member name="P:Demo.Api.Data.Entities.Sample.SampleDataListT.Name">
+            <summary>
+            고객이름
+            </summary>
+        </member>
+        <member name="P:Demo.Api.Data.Entities.Sample.SampleDataListT.Age">
+            <summary>
+            나이
+            </summary>
+        </member>
+        <member name="P:Demo.Api.Data.Entities.Sample.SampleDataListT.Address">
+            <summary>
+            주소
+            </summary>
+        </member>
+        <member name="P:Demo.Api.Data.Entities.User.UserReqeustM.UserId">
+            <summary>
+            ID
+            </summary>
+        </member>
+        <member name="P:Demo.Api.Data.Entities.User.UserReqeustM.UserName">
+            <summary>
+            이름
+            </summary>
+        </member>
+        <member name="P:Demo.Api.Data.Entities.User.UserReqeustM.UserAddress">
+            <summary>
+            주소
+            </summary>
+        </member>
+        <member name="P:Demo.Api.Data.Entities.User.UserReqeustM.UserAge">
+            <summary>
+            나이
+            </summary>
+        </member>
+        <member name="P:Demo.Api.Data.Entities.User.UserM.UserId">
+            <summary>
+            사용자ID
+            </summary>
+        </member>
+        <member name="P:Demo.Api.Data.Entities.User.UserM.UserName">
+            <summary>
+            사용자이름
+            </summary>
+        </member>
+        <member name="P:Demo.Api.Data.Entities.User.UserM.UserAddress">
+            <summary>
+            주소
+            </summary>
+        </member>
+        <member name="P:Demo.Api.Data.Entities.User.UserM.UserAge">
+            <summary>
+            나이
+            </summary>
+        </member>
+        <member name="P:Demo.Api.Data.Entities.User.UserT.UserId">
+            <summary>
+            사용자ID
+            </summary>
+        </member>
+        <member name="P:Demo.Api.Data.Entities.User.UserT.UserName">
+            <summary>
+            사용자이름
+            </summary>
+        </member>
+        <member name="P:Demo.Api.Data.Entities.User.UserT.UserAddress">
+            <summary>
+            주소
+            </summary>
+        </member>
+        <member name="P:Demo.Api.Data.Entities.User.UserT.UserAge">
+            <summary>
+            나이
+            </summary>
+        </member>
+    </members>
+</doc>
